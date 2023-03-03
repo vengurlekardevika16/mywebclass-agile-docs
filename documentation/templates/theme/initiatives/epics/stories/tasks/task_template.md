@@ -95,5 +95,28 @@
 **Notes:** The team will need to research and familiarize themselves with relevant copyright laws and regulations before implementing the compliance mechanisms. They will also need to coordinate with content creators and legal advisors to ensure that the copyright policy and license options are appropriate for the website's content and audience.
 
 
+## AGILE TASK 5
+
+**Task Title:** Implement Website Feedback Mechanism
+
+**User Story:** As a website user, I want to provide feedback about my experience with the website so that the website can continuously improve to better meet my needs.
+
+**Description:**
+* Create a visible and easy-to-find feedback button or link on every page.
+* Develop a feedback mechanism that allows users to provide feedback on various aspects of the website, such as design, functionality, and content.
+* The feedback form should include open-ended fields for users to provide detailed comments and suggestions.
+* The website team should review and respond to user feedback, taking appropriate action to address issues and implement improvements.
+* Use user feedback to inform and prioritize future development efforts, ensuring that the website continuously evolves to meet user needs.
+
+**Effort Estimate:** 16 hours.
+
+**Assigned To:** TBD
+
+**Priority:** High
+
+**Status:** Not yet started
+
+**Notes:** The feedback mechanism should be designed in a way that is easy to use and accessible to all users. The feedback form should collect relevant information, such as the user's email address or phone number, to allow for follow-up if necessary. The website team should establish a process for reviewing and responding to feedback, and regularly report on the feedback received and the actions taken.
+
 
 
