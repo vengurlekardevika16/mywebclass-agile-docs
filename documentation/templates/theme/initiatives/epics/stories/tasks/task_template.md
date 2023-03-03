@@ -1,4 +1,4 @@
-## TASK 1
+## AGILE TASK 1
 
 **Task Title:** Improve website loading speed and navigation.
 
@@ -25,7 +25,7 @@
 **Notes:** This task is dependent on the completion of the website speed audit. The person assigned to this task needs to coordinate with the website development team to implement the changes required to improve loading speed and navigation.
 
 
-## TASK 2
+## AGILE TASK 2
 
 **Task Title:** Implement Agile and Lean principles in website development process.
 
@@ -50,7 +50,7 @@
 **Notes:** This task requires collaboration with the product owner and other team members to implement Agile and Lean principles effectively. Jane will need to coordinate with the team to ensure that everyone understands and follows the new processes and practices.
 
 
-## TASK 3
+## AGILE TASK 3
 
 **Task Title:** Ensure GDPR and COPPA compliance for privacy, data protection, and consent.
 
@@ -71,4 +71,29 @@
 **Status:** Not yet started
 
 **Notes:** The task may require collaboration with legal and compliance teams to ensure full compliance with GDPR and COPPA regulations.
+
+
+## AGILE TASK 4
+
+**Task Title:** Implement Copyright Compliance Mechanisms
+
+**User Story:** As a website owner, I want to ensure copyright compliance by providing proper license information for all content on my website so that I can avoid legal issues and maintain a professional image.
+
+**Description:**
+* Implement copyright compliance mechanisms on the website that meet the acceptance criteria defined in the user story. 
+* This will involve designing and implementing a clear and prominent notice of copyright protection and a copyright policy, a mechanism for content creators to select a license type, guidance on how to choose an appropriate license, a mechanism for users to report any suspected copyright infringement, and a system for responding promptly to infringement reports. Additionally, a record-keeping system will be implemented to maintain a record of all content and associated license information for compliance auditing purposes. 
+* Finally, the website's copyright policy and license options will be periodically reviewed and updated to ensure continued compliance with relevant laws and regulations.
+
+**Effort Estimate:** 30 hours.
+
+**Assigned To:** TBD
+
+**Priority:** High
+
+**Status:** Not yet started
+
+**Notes:** The team will need to research and familiarize themselves with relevant copyright laws and regulations before implementing the compliance mechanisms. They will also need to coordinate with content creators and legal advisors to ensure that the copyright policy and license options are appropriate for the website's content and audience.
+
+
+
 
