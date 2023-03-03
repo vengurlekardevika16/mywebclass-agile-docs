@@ -28,6 +28,23 @@
 * The team should encourage a culture of continuous learning and improvement, providing opportunities for training, mentoring, and knowledge sharing.
 
 
+## USER STORY 3
+
+**USER STORY:** As a website administrator, I want to ensure website security and compliance with data protection regulations so that sensitive data is protected and the website is secure against cyber threats.
+
+**Acceptance Criteria:**
+* The website should be protected by HTTPS protocol to ensure secure communication between the website and the user's browser.
+* The website should use strong authentication mechanisms, such as multifactor authentication (MFA), to prevent unauthorized access to the website and user data.
+* The website should follow industry-standard security practices, such as OWASP Top 10, to prevent common web application security risks.
+* The website should be regularly scanned for vulnerabilities, and any identified vulnerabilities should be promptly remediated.
+* The website should have a privacy policy that complies with data protection regulations, such as GDPR and CCPA, and clearly communicates how user data is collected, used, and shared.
+* The website should obtain user consent for data collection, use, and sharing, as required by data protection regulations.
+* The website should provide users with the right to access, delete, and modify their personal data, as required by data protection regulations.
+* The website should have data backup and disaster recovery mechanisms in place to ensure business continuity in the event of data loss or cyberattacks.
+* The website should have a security incident response plan in place to ensure prompt and effective response to security incidents.
+
+
+
 
 
 
