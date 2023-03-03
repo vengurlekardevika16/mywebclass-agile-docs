@@ -20,8 +20,7 @@
 * The team should define and prioritize product backlog items collaboratively with the product owner, following Agile principles and practices.
 * The team should work in short, time-boxed iterations, delivering potentially shippable increments of the product at the end of each iteration.
 * The team should use Agile ceremonies, such as sprint planning, daily stand-ups, sprint reviews, and retrospectives, to ensure continuous improvement and collaboration.
-* The team should apply Lean principles, such as minimizing waste, optimizing flow, and empowering the team, to eliminate bottlenecks and improve efficiency.
-* The team should use visual management tools, such as Kanban boards and burndown charts, to track progress and communicate status transparently.
+* The team should apply Lean principles such as minimizing waste, optimizing flow, and empowering the team, to eliminate bottlenecks and improve efficiency.
 * The team should embrace a test-driven development (TDD) approach, writing tests first and then writing the code to pass the tests, to ensure software quality and maintainability.
 * The team should adopt continuous integration (CI) and continuous delivery (CD) practices, automating testing, building, and deployment processes to deliver software frequently and reliably.
 * The team should encourage a culture of continuous learning and improvement, providing opportunities for training, mentoring, and knowledge sharing.
