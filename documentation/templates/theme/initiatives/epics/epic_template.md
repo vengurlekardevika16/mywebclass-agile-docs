@@ -186,4 +186,8 @@
 
 
 # List stories related to this theme
-1. [Story 1](documentation/templates/theme/initiatives/epics/stories/story_template.md)
+* USER STORY 1: As a website visitor, I want to have a fast loading website and easy navigation so that I can find information quickly and have a good user experience.   [Story 1](documentation/templates/theme/initiatives/epics/stories/story_template.md)
+* USER STORY 2: As a development team member, I want to adopt Agile Manifesto and Lean Principles in our website development process so that we can deliver high-quality software efficiently and continuously.
+* USER STORY 3: As a website administrator, I want to ensure website security and compliance with data protection regulations so that sensitive data is protected and the website is secure against cyber threats.
+* USER STORY 4: As a website owner, I want to ensure copyright compliance by providing proper license information for all content on my website so that I can avoid legal issues and maintain a professional image.
+* USER STORY 5: As a website user, I want to provide feedback about my experience with the website so that the website can continuously improve to better meet my needs.
