@@ -8,7 +8,6 @@
 * The website should have a responsive design that adjusts to different screen sizes and resolutions, making it easy to use on any device.
 * The website should have clear and visible navigation, including a menu that is easy to use and allows users to find information quickly.
 * The website should have a search function that returns relevant results and is easy to use.
-* The website should be accessible and meet WCAG 2.1 Level AA standards for accessibility.
 * The website should have a feedback mechanism, such as a contact form or chatbot, for users to report any issues or provide suggestions for improvement.
 * The website should have analytics installed to track user behavior and identify areas for improvement
 
