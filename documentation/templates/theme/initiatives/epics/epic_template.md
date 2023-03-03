@@ -37,7 +37,7 @@
 **Priority:** High
 
 
-##EPIC 2
+## EPIC 2
 
 **TITLE:** Upgrade Website Development Process to Adhere to Agile Manifesto and Lean Principles
 
@@ -73,6 +73,46 @@
 * Improved customer satisfaction and loyalty.
 
 **Priority:** High
+
+
+## EPIC 3
+
+**TITLE:** Ensure Website Security and Compliance with Data Protection Regulations.
+
+**Description:** The goal of this epic is to ensure that the website is secure and compliant with data protection regulations such as GDPR and COPPA. The aim is to protect the privacy and personal data of website users and avoid any legal and reputational risks associated with non-compliance.
+
+**Goals:**
+* Identify and assess potential security risks to the website and its users.
+* Implement appropriate security measures to prevent unauthorized access, data breaches, and other security incidents.
+* Ensure compliance with data protection regulations such as GDPR and COPPA.
+* Provide clear and transparent privacy policies and practices to website users.
+
+**User Stories:**
+* As a website administrator, I want to conduct a security assessment of the website to identify and mitigate potential security risks.
+* As a developer, I want to implement appropriate security measures such as encryption, firewalls, and access controls to protect user data.
+* As a legal expert, I want to ensure that the website is compliant with data protection regulations such as GDPR and COPPA.
+* As a website user, I want to have clear and transparent information about the website's privacy policies and practices.
+
+**Dependencies:**
+* Availability of skilled security and legal experts.
+* Integration with third-party security and compliance services.
+* Availability of necessary resources such as technology, tools, and funding.
+
+**Risks:**
+* Potential security breaches or data leaks.
+* Non-compliance with data protection regulations.
+* Damage to the website's reputation and legal and financial risks.
+
+**Estimated Effort:** 6-8 months
+
+**Business Value:**
+* Improved website security and protection of user data.
+* Compliance with data protection regulations and avoidance of legal and reputational risks.
+* Increased trust and loyalty from website users.
+
+**Priority:** High
+
+
 
 
 
