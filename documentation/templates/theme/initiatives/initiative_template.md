@@ -241,7 +241,7 @@
 
 
 # List epics related to this theme
-* **EPIC 1:** Upgrade Website Performance and User Experience[Epic 1](documentation/templates/theme/initiatives/epics/epic_template.md)
+* **EPIC 1:** Upgrade Website Performance and User Experience. [Epic 1](documentation/templates/theme/initiatives/epics/epic_template.md)
 * **EPIC 2:** Upgrade Website Development Process to Adhere to Agile Manifesto and Lean Principles.
 * **EPIC 3:** Ensure Website Security and Compliance with Data Protection Regulations.
 * **EPIC 4:** Enhance Copyright Policies to Protect Intellectual Property.
