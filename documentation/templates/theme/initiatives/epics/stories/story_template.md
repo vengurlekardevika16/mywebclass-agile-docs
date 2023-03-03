@@ -46,16 +46,18 @@
 
 ## USER STORY 4
 
-**USER STORY:** As a content creator, I want to enhance copyright policies to protect intellectual property so that my original work is not stolen or misused.
+**USER STORY:** As a website owner, I want to ensure copyright compliance by providing proper license information for all content on my website so that I can avoid legal issues and maintain a professional image.
 
 **Acceptance Criteria:**
-* The website should have clear copyright policies that communicate how users can use the content on the website.
-* The website should have mechanisms in place to prevent content theft, such as watermarks, DRM, or disable right-click save.
-* The website should have a process for reporting copyright infringement, and the process should be prominently displayed on the website.
-* The website should promptly investigate reported copyright infringement and take appropriate action, such as removing infringing content or terminating the accounts of repeat offenders.
-* The website should provide users with clear guidelines on how they can obtain permission to use copyrighted content, such as through licensing agreements or fair use provisions.
-* The website should have a process for resolving copyright disputes, such as through mediation or arbitration, that is fair and impartial.
-* The website should provide users with resources on how they can protect their own intellectual property, such as through registering copyrights or trademarks.
+* The website displays a clear and prominent notice that all content is protected by copyright law and includes a link to the website's copyright policy.
+* The website includes a mechanism for content creators to select a license type from a predefined list of options while uploading content.The selected license type is prominently displayed with the content.
+* The license type includes a link to the full text of the license.
+* The website provides guidance to content creators on how to choose the appropriate license type based on the type of content and the creator's specific needs.
+* The website ensures that the license information is included in all copies or derivatives of the content.
+* The website includes a mechanism for users to report any suspected copyright infringement.
+* The website responds promptly to any copyright infringement reports and takes appropriate action to remove infringing content.
+* The website maintains a record of all content and its associated license information for compliance auditing purposes.
+* The website periodically reviews and updates its copyright policy and license options to ensure they remain up-to-date and effective.
 * The website should comply with relevant copyright laws and regulations, such as the Digital Millennium Copyright Act (DMCA) in the United States.
 
 
