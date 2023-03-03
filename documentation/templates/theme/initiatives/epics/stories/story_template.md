@@ -72,4 +72,8 @@
 
 
 # List Stories related to this theme
-1. [Stories 1](documentation/templates/theme/initiatives/epics/stories/tasks/task_template.md)
+* **AGILE TASK 1:** Improve website loading speed and navigation.   [Stories 1](documentation/templates/theme/initiatives/epics/stories/tasks/task_template.md)
+* **AGILE TASK 2:** Implement Agile and Lean principles in website development process.
+* **AGILE TASK 3:** Ensure GDPR and COPPA compliance for privacy, data protection, and consent.
+* **AGILE TASK 4:** Implement Copyright Compliance Mechanisms.
+* **AGILE TASK 5:** Implement Website Feedback Mechanism.
