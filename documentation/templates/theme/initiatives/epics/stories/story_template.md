@@ -59,7 +59,16 @@
 * The website should comply with relevant copyright laws and regulations, such as the Digital Millennium Copyright Act (DMCA) in the United States.
 
 
+## USER STORY 5
 
+**USER STORY:** As a website user, I want to provide feedback about my experience with the website so that the website can continuously improve to better meet my needs.
+
+**Acceptance Criteria:**
+* The website includes a visible and easy-to-find feedback button or link on every page.
+* The feedback mechanism allows users to provide feedback on various aspects of the website, such as design, functionality, and content.
+* The feedback form includes open-ended fields for users to provide detailed comments and suggestions.
+* The website team regularly reviews and responds to user feedback, taking appropriate action to address issues and implement improvements.
+* The website team uses user feedback to inform and prioritize future development efforts, ensuring that the website continuously evolves to meet user needs.
 
 
 # List Stories related to this theme
