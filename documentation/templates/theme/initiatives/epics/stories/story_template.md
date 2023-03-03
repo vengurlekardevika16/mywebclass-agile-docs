@@ -44,6 +44,20 @@
 * The website should have a security incident response plan in place to ensure prompt and effective response to security incidents.
 
 
+## USER STORY 4
+
+**USER STORY:** As a content creator, I want to enhance copyright policies to protect intellectual property so that my original work is not stolen or misused.
+
+**Acceptance Criteria:**
+* The website should have clear copyright policies that communicate how users can use the content on the website.
+* The website should have mechanisms in place to prevent content theft, such as watermarks, DRM, or disable right-click save.
+* The website should have a process for reporting copyright infringement, and the process should be prominently displayed on the website.
+* The website should promptly investigate reported copyright infringement and take appropriate action, such as removing infringing content or terminating the accounts of repeat offenders.
+* The website should provide users with clear guidelines on how they can obtain permission to use copyrighted content, such as through licensing agreements or fair use provisions.
+* The website should have a process for resolving copyright disputes, such as through mediation or arbitration, that is fair and impartial.
+* The website should provide users with resources on how they can protect their own intellectual property, such as through registering copyrights or trademarks.
+* The website should comply with relevant copyright laws and regulations, such as the Digital Millennium Copyright Act (DMCA) in the United States.
+
 
 
 
