@@ -30,7 +30,6 @@
 **USER STORY:** As a website administrator, I want to ensure website security and compliance with data protection regulations so that sensitive data is protected and the website is secure against cyber threats.
 
 **Acceptance Criteria:**
-* The website should be protected by HTTPS protocol to ensure secure communication between the website and the user's browser.
 * The website should use strong authentication mechanisms, such as multifactor authentication (MFA), to prevent unauthorized access to the website and user data.
 * The website should follow industry-standard security practices, such as OWASP Top 10, to prevent common web application security risks.
 * The website should be regularly scanned for vulnerabilities, and any identified vulnerabilities should be promptly remediated.
