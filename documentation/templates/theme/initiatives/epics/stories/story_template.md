@@ -46,10 +46,7 @@
 
 **Acceptance Criteria:**
 * The website displays a clear and prominent notice that all content is protected by copyright law and includes a link to the website's copyright policy.
-* The website includes a mechanism for content creators to select a license type from a predefined list of options while uploading content.The selected license type is prominently displayed with the content.
-* The license type includes a link to the full text of the license.
 * The website provides guidance to content creators on how to choose the appropriate license type based on the type of content and the creator's specific needs.
-* The website ensures that the license information is included in all copies or derivatives of the content.
 * The website includes a mechanism for users to report any suspected copyright infringement.
 * The website responds promptly to any copyright infringement reports and takes appropriate action to remove infringing content.
 * The website maintains a record of all content and its associated license information for compliance auditing purposes.
