@@ -59,7 +59,7 @@
 **Description:**
 * This task involves ensuring compliance with GDPR and COPPA regulations for privacy, data protection, and consent on the website. 
 * The website should have a clear privacy policy that complies with the regulations, obtain user consent for data collection, use, and sharing, provide users with the right to access, delete, and modify their personal data, and follow industry-standard security practices to protect user data. 
-* The task may involve implementing technical measures, such as encryption, multifactor authentication, and access controls, to ensure data protection and security. The website team should regularly review and update the privacy policy, obtain user consent, and respond to user requests for data access, deletion, and modification. 
+* The website team should review and update the privacy policy, obtain user consent, and respond to user requests for data access, deletion, and modification. 
 * The task may also involve conducting a privacy impact assessment (PIA) to identify and address any privacy risks associated with the website.
 
 **Effort Estimate:** 20 hours
